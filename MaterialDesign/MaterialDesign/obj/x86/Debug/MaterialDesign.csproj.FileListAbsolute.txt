@@ -1,0 +1,6 @@
+E:\6th Semester\AI\Programs\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesign.exe
+E:\6th Semester\AI\Programs\MaterialDesign\MaterialDesign\bin\Debug\MaterialDesign.pdb
+E:\6th Semester\AI\Programs\MaterialDesign\MaterialDesign\obj\x86\Debug\MaterialDesign.Properties.Resources.resources
+E:\6th Semester\AI\Programs\MaterialDesign\MaterialDesign\obj\x86\Debug\MaterialDesign.csproj.GenerateResource.Cache
+E:\6th Semester\AI\Programs\MaterialDesign\MaterialDesign\obj\x86\Debug\MaterialDesign.exe
+E:\6th Semester\AI\Programs\MaterialDesign\MaterialDesign\obj\x86\Debug\MaterialDesign.pdb
